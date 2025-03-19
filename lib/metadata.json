@@ -1,6 +1,6 @@
 {
   "vaultName": "STALKER_Log",
-  "lastExport": 1741533801686,
+  "lastExport": 1742399416955,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -36,14 +36,59 @@
     "0. Attatchments/20240902123345_1.jpg",
     "0. Attatchments/20240902123403_1.jpg",
     "0. Attatchments/20240902123431_1.jpg",
+    "0. Attatchments/20250223202625_1.jpg",
+    "0. Attatchments/20250316102256_1.jpg",
+    "0. Attatchments/20250316102258_1.jpg",
+    "0. Attatchments/20250316102300_1.jpg",
+    "0. Attatchments/20250316102302_1.jpg",
+    "0. Attatchments/20250316102310_1.jpg",
+    "0. Attatchments/20250316102311_1.jpg",
+    "0. Attatchments/20250316102314_1.jpg",
+    "0. Attatchments/20250316102315_1.jpg",
+    "0. Attatchments/20250316102317_1.jpg",
+    "0. Attatchments/20250316102320_1.jpg",
+    "0. Attatchments/20250316102323_1.jpg",
+    "0. Attatchments/20250316102330_1.jpg",
+    "0. Attatchments/20250316102333_1.jpg",
+    "0. Attatchments/20250316102335_1.jpg",
+    "0. Attatchments/20250316102338_1.jpg",
+    "0. Attatchments/20250316102340_1.jpg",
+    "0. Attatchments/20250316102345_1.jpg",
+    "0. Attatchments/20250316102351_1.jpg",
+    "0. Attatchments/20250316102354_1.jpg",
+    "0. Attatchments/20250316102357_1.jpg",
+    "0. Attatchments/20250316102400_1.jpg",
+    "0. Attatchments/20250316102402_1.jpg",
+    "0. Attatchments/20250316102405_1.jpg",
+    "0. Attatchments/20250316102407_1.jpg",
+    "0. Attatchments/20250316102409_1.jpg",
+    "0. Attatchments/20250316102412_1.jpg",
+    "0. Attatchments/20250316102415_1.jpg",
+    "0. Attatchments/20250316102418_1.jpg",
+    "0. Attatchments/20250316102422_1.jpg",
+    "0. Attatchments/20250316102425_1.jpg",
+    "0. Attatchments/20250316102428_1.jpg",
+    "0. Attatchments/20250316102432_1.jpg",
+    "0. Attatchments/20250316102437_1.jpg",
+    "0. Attatchments/20250316102440_1.jpg",
+    "0. Attatchments/20250316104245_1.jpg",
+    "0. Attatchments/20250316104256_1.jpg",
+    "0. Attatchments/20250316104303_1.jpg",
+    "0. Attatchments/20250316104311_1.jpg",
+    "0. Attatchments/20250316104313_1.jpg",
+    "0. Attatchments/20250316104314_1.jpg",
+    "0. Attatchments/20250316104316_1.jpg",
+    "0. Attatchments/Grim.png",
     "0. Attatchments/Hocms8e.png.305ae654661052d3701e98b5aac33b2d.png",
     "0. Attatchments/Pasted image 20240721131710.png",
     "0. Attatchments/Pasted image 20240721133324.png",
     "0. Attatchments/Pasted image 20240721133341.png",
     "0. Attatchments/Pasted image 20240721133353.png",
     "0. Attatchments/Pasted image 20240830153200.png",
+    "0. Attatchments/Preview.webp",
     "0. Attatchments/Rabbit1.png",
     "0. Attatchments/Rabbit2.png",
+    "0. Attatchments/SGT Igor Petrof.png",
     "0. Attatchments/Walter1.png",
     "0. PREWIPE/Journal/Barrier Defence/1st Barrier Battle.md",
     "0. PREWIPE/Journal/Barrier Defence/2nd Barrier Battle.md",
@@ -59,80 +104,75 @@
     "0. Template/Journal Template.md",
     "1. Misc/Shopping List.md",
     "1. Misc/Stash.md",
+    "Ghost's of Chernobyl/Contacts/Grim (GOC).md",
+    "Ghost's of Chernobyl/Contacts/Igor Petrof (GOC).md",
     "Ghost's of Chernobyl/Contacts/The Guide (GOC).md",
-    "Ghost's of Chernobyl/Factions/Loner Factions/Hotel Pipyat.md",
-    "Ghost's of Chernobyl/Factions/Loner Factions/Loner.md",
-    "Ghost's of Chernobyl/Factions/Bandits.md",
-    "Ghost's of Chernobyl/Factions/Duty.md",
-    "Ghost's of Chernobyl/Factions/Freedom.md",
-    "Ghost's of Chernobyl/Factions/Mercenaries.md",
-    "Ghost's of Chernobyl/Factions/Monolith.md",
-    "Ghost's of Chernobyl/Journal/Journal (GOC).md",
-    "Ghost's of Chernobyl/Locations/Regions/Garbage/Flea Market.md",
-    "Ghost's of Chernobyl/Locations/Regions/Agroprom.md",
-    "Ghost's of Chernobyl/Locations/Regions/Army Warehouse.md",
-    "Ghost's of Chernobyl/Locations/Regions/Border.md",
-    "Ghost's of Chernobyl/Locations/Regions/Cordon.md",
-    "Ghost's of Chernobyl/Locations/Regions/Dark Valley.md",
-    "Ghost's of Chernobyl/Locations/Regions/Darkscape.md",
-    "Ghost's of Chernobyl/Locations/Regions/Dead City.md",
-    "Ghost's of Chernobyl/Locations/Regions/Garbage.md",
-    "Ghost's of Chernobyl/Locations/Regions/Limansk.md",
-    "Ghost's of Chernobyl/Locations/Regions/Northern Dump.md",
-    "Ghost's of Chernobyl/Locations/Regions/Northern Swamp.md",
-    "Ghost's of Chernobyl/Locations/Regions/Red Forest.md",
-    "Ghost's of Chernobyl/Locations/Regions/Rookie Village.md",
-    "Ghost's of Chernobyl/Locations/Regions/Rostok.md",
-    "Ghost's of Chernobyl/Locations/Regions/Swamp.md",
-    "Ghost's of Chernobyl/Locations/Regions/Vehicle Cemetery.md",
-    "Ghost's of Chernobyl/Locations/Regions/Yanov.md",
-    "Ghost's of Chernobyl/Locations/Regions/Yantar.md",
-    "Ghost's of Chernobyl/Locations/Traders/Barkeep.md",
-    "Ghost's of Chernobyl/Locations/Traders/Sidorovich.md",
+    "Ghost's of Chernobyl/Contacts/Wilhelm Stümer (GOC).md",
+    "Ghost's of Chernobyl/Factions/Bandits (GOC).md",
+    "Ghost's of Chernobyl/Factions/Duty (GOC).md",
+    "Ghost's of Chernobyl/Factions/Freedom (GOC).md",
+    "Ghost's of Chernobyl/Factions/Loner (GOC).md",
+    "Ghost's of Chernobyl/Factions/Mercenaries (GOC).md",
+    "Ghost's of Chernobyl/Factions/Monolith (GOC).md",
+    "Ghost's of Chernobyl/Journal/0. Journal (GOC).md",
+    "Ghost's of Chernobyl/Journal/Jobs (GOC).md",
+    "Ghost's of Chernobyl/Locations/Bases/Refuge (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Garbage/Flea Market (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Agroprom (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Rookie Village (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Rostok (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Swamp (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Yanov (GOC).md",
+    "Ghost's of Chernobyl/Locations/Regions/Yantar (GOC).md",
+    "Ghost's of Chernobyl/Locations/Traders/Barkeep (GOC).md",
+    "Ghost's of Chernobyl/Locations/Traders/Duty Private (GOC).md",
+    "Ghost's of Chernobyl/Locations/Traders/Ecologist (GOC).md",
+    "Ghost's of Chernobyl/Locations/Traders/Public Freedom (GOC).md",
+    "Ghost's of Chernobyl/Locations/Traders/Sidorovich (GOC).md",
     "Life In the Zone/Contacts/The Guide (LITZ).md",
     "Life In the Zone/Factions/Loner Factions/Hotel Pipyat.md",
     "Life In the Zone/Factions/Loner Factions/Loner.md",
-    "Life In the Zone/Factions/Bandits.md",
-    "Life In the Zone/Factions/Duty.md",
-    "Life In the Zone/Factions/Freedom.md",
-    "Life In the Zone/Factions/Mercenaries.md",
-    "Life In the Zone/Factions/Monolith.md",
-    "Life In the Zone/Journal/Barrier Defence/1st Barrier Battle.md",
-    "Life In the Zone/Journal/Barrier Defence/2nd Barrier Battle.md",
-    "Life In the Zone/Journal/Expedition Logs/20240719 - Rostok Route.md",
-    "Life In the Zone/Journal/Expedition Logs/20240720 - Darkscape Firestation.md",
-    "Life In the Zone/Journal/Expedition Logs/20240721 - Swamp Interim.md",
-    "Life In the Zone/Journal/Expedition Logs/20240726 - Yantar.md",
-    "Life In the Zone/Journal/Expedition Logs/20240831 - Yantar.md",
-    "Life In the Zone/Journal/01 - Log.md",
-    "Life In the Zone/Locations/Bases/The Bunker.md",
-    "Life In the Zone/Locations/Bases/The Church Bunker.md",
-    "Life In the Zone/Locations/Regions/Garbage/Flea Market.md",
-    "Life In the Zone/Locations/Regions/Agroprom.md",
-    "Life In the Zone/Locations/Regions/Army Warehouse.md",
-    "Life In the Zone/Locations/Regions/Border.md",
-    "Life In the Zone/Locations/Regions/Cordon.md",
-    "Life In the Zone/Locations/Regions/Dark Valley.md",
-    "Life In the Zone/Locations/Regions/Darkscape.md",
-    "Life In the Zone/Locations/Regions/Dead City.md",
-    "Life In the Zone/Locations/Regions/Garbage.md",
-    "Life In the Zone/Locations/Regions/Limansk.md",
-    "Life In the Zone/Locations/Regions/Northern Dump.md",
-    "Life In the Zone/Locations/Regions/Northern Swamp.md",
-    "Life In the Zone/Locations/Regions/Red Forest.md",
-    "Life In the Zone/Locations/Regions/Rostok.md",
-    "Life In the Zone/Locations/Regions/Swamp.md",
-    "Life In the Zone/Locations/Regions/Vehicle Cemetery.md",
-    "Life In the Zone/Locations/Regions/Yanov.md",
-    "Life In the Zone/Locations/Regions/Yantar.md",
-    "Life In the Zone/Locations/Traders/Barkeep.md",
-    "Life In the Zone/Locations/Traders/Cordon Smuggler.md",
-    "Life In the Zone/Locations/Traders/Duty Arms Seller.md",
-    "Life In the Zone/Locations/Traders/Duty Medic.md",
-    "Life In the Zone/Locations/Traders/Duty Mutant Seller.md",
-    "Life In the Zone/Locations/Traders/Flea Market Trader.md",
-    "Life In the Zone/Locations/Traders/Sidorovich.md",
-    "Life In the Zone/Locations/Traders/Yantar Trader.md",
+    "Life In the Zone/Factions/Bandits (LITZ).md",
+    "Life In the Zone/Factions/Duty (LITZ).md",
+    "Life In the Zone/Factions/Freedom (LITZ).md",
+    "Life In the Zone/Factions/Mercenaries (LITZ).md",
+    "Life In the Zone/Factions/Monolith (LITZ).md",
+    "Life In the Zone/Journal/Old/Barrier Defence/1st Barrier Battle (LITZ).md",
+    "Life In the Zone/Journal/Old/Barrier Defence/2nd Barrier Battle (LITZ).md",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240719 - Rostok Route.md",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240720 - Darkscape Firestation.md",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240721 - Swamp Interim.md",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240726 - Yantar.md",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240831 - Yantar.md",
+    "Life In the Zone/Journal/Old/01 - Log.md",
+    "Life In the Zone/Locations/Bases/The Bunker (LITZ).md",
+    "Life In the Zone/Locations/Bases/The Church Bunker (LITZ).md",
+    "Life In the Zone/Locations/Regions/Garbage  (LITZ)/Flea Market (LITZ).md",
+    "Life In the Zone/Locations/Regions/Agroprom (LITZ).md",
+    "Life In the Zone/Locations/Regions/Army Warehouse (LITZ).md",
+    "Life In the Zone/Locations/Regions/Border (LITZ).md",
+    "Life In the Zone/Locations/Regions/Cordon (LITZ).md",
+    "Life In the Zone/Locations/Regions/Dark Valley (LITZ).md",
+    "Life In the Zone/Locations/Regions/Darkscape (LITZ).md",
+    "Life In the Zone/Locations/Regions/Dead City (LITZ).md",
+    "Life In the Zone/Locations/Regions/Garbage (LITZ).md",
+    "Life In the Zone/Locations/Regions/Limansk (LITZ).md",
+    "Life In the Zone/Locations/Regions/Northern Dump (LITZ).md",
+    "Life In the Zone/Locations/Regions/Northern Swamp (LITZ).md",
+    "Life In the Zone/Locations/Regions/Red Forest (LITZ).md",
+    "Life In the Zone/Locations/Regions/Rostok (LITZ).md",
+    "Life In the Zone/Locations/Regions/Swamp (LITZ).md",
+    "Life In the Zone/Locations/Regions/Vehicle Cemetery (LITZ).md",
+    "Life In the Zone/Locations/Regions/Yanov (LITZ).md",
+    "Life In the Zone/Locations/Regions/Yantar (LITZ).md",
+    "Life In the Zone/Locations/Traders/Barkeep (LITZ).md",
+    "Life In the Zone/Locations/Traders/Cordon Smuggler (LITZ).md",
+    "Life In the Zone/Locations/Traders/Duty Arms Seller (LITZ).md",
+    "Life In the Zone/Locations/Traders/Duty Medic (LITZ).md",
+    "Life In the Zone/Locations/Traders/Duty Mutant Seller (LITZ).md",
+    "Life In the Zone/Locations/Traders/Flea Market Trader (LITZ).md",
+    "Life In the Zone/Locations/Traders/Sidorovich (LITZ).md",
+    "Life In the Zone/Locations/Traders/Yantar Trader (LITZ).md",
     "Life In the Zone/The Guide's Guide/0. Introduction To The Guide.md",
     "Life In the Zone/The Guide's Guide/1. Welcome to the Cordon.md",
     "Life In the Zone/The Guide's Guide/2. Garbage and its trash inhabitants.md",
@@ -148,6 +188,50 @@
     "lib/media/20240721123006_1.jpg",
     "lib/media/20240721123004_1.jpg",
     "lib/media/20240830145722_1.jpg",
+    "lib/media/grim.png",
+    "lib/media/sgt-igor-petrof.png",
+    "lib/media/20250316104245_1.jpg",
+    "lib/media/preview.webp",
+    "lib/media/20250316102256_1.jpg",
+    "lib/media/20250316102258_1.jpg",
+    "lib/media/20250316102300_1.jpg",
+    "lib/media/20250316102302_1.jpg",
+    "lib/media/20250316102310_1.jpg",
+    "lib/media/20250316102311_1.jpg",
+    "lib/media/20250316102314_1.jpg",
+    "lib/media/20250316102315_1.jpg",
+    "lib/media/20250316102317_1.jpg",
+    "lib/media/20250316102320_1.jpg",
+    "lib/media/20250316102323_1.jpg",
+    "lib/media/20250316102330_1.jpg",
+    "lib/media/20250316102333_1.jpg",
+    "lib/media/20250316102335_1.jpg",
+    "lib/media/20250316102338_1.jpg",
+    "lib/media/20250316102340_1.jpg",
+    "lib/media/20250316102345_1.jpg",
+    "lib/media/20250316102351_1.jpg",
+    "lib/media/20250316102354_1.jpg",
+    "lib/media/20250316102357_1.jpg",
+    "lib/media/20250316102400_1.jpg",
+    "lib/media/20250316102402_1.jpg",
+    "lib/media/20250316102405_1.jpg",
+    "lib/media/20250316102407_1.jpg",
+    "lib/media/20250316102409_1.jpg",
+    "lib/media/20250316102412_1.jpg",
+    "lib/media/20250316102415_1.jpg",
+    "lib/media/20250316102418_1.jpg",
+    "lib/media/20250316102422_1.jpg",
+    "lib/media/20250316102425_1.jpg",
+    "lib/media/20250316102428_1.jpg",
+    "lib/media/20250316102432_1.jpg",
+    "lib/media/20250316102437_1.jpg",
+    "lib/media/20250316102440_1.jpg",
+    "lib/media/20250316104256_1.jpg",
+    "lib/media/20250316104303_1.jpg",
+    "lib/media/20250316104316_1.jpg",
+    "lib/media/20250316104311_1.jpg",
+    "lib/media/20250316104313_1.jpg",
+    "lib/media/20250316104314_1.jpg",
     "lib/media/20240831102148_1.jpg",
     "lib/media/20240831102056_1.jpg",
     "lib/media/20240902122917_1.jpg",
@@ -236,254 +320,524 @@
   ],
   "fileInfo": {
     "0. Attatchments/20240720 - Expedition Firestation.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 1506615,
       "exportedPath": "0.-attatchments/20240720-expedition-firestation.png",
       "dependencies": []
     },
     "0. Attatchments/20240721123004_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 621327,
       "exportedPath": "0.-attatchments/20240721123004_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240721123006_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 607252,
       "exportedPath": "0.-attatchments/20240721123006_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240830145722_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 627587,
       "exportedPath": "0.-attatchments/20240830145722_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240831102056_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 119238,
       "exportedPath": "0.-attatchments/20240831102056_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240831102148_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 193128,
       "exportedPath": "0.-attatchments/20240831102148_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122349_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 400063,
       "exportedPath": "0.-attatchments/20240902122349_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122430_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 312330,
       "exportedPath": "0.-attatchments/20240902122430_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122439_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 356749,
       "exportedPath": "0.-attatchments/20240902122439_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122517_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 373099,
       "exportedPath": "0.-attatchments/20240902122517_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122527_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 252316,
       "exportedPath": "0.-attatchments/20240902122527_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122534_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 355195,
       "exportedPath": "0.-attatchments/20240902122534_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122542_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 305105,
       "exportedPath": "0.-attatchments/20240902122542_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122605_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 407484,
       "exportedPath": "0.-attatchments/20240902122605_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122635_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 391188,
       "exportedPath": "0.-attatchments/20240902122635_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122649_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 356566,
       "exportedPath": "0.-attatchments/20240902122649_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122712_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 253689,
       "exportedPath": "0.-attatchments/20240902122712_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122727_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 352534,
       "exportedPath": "0.-attatchments/20240902122727_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122747_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 360887,
       "exportedPath": "0.-attatchments/20240902122747_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122757_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 416306,
       "exportedPath": "0.-attatchments/20240902122757_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122917_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 334355,
       "exportedPath": "0.-attatchments/20240902122917_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902122922_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 291330,
       "exportedPath": "0.-attatchments/20240902122922_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123002_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 414637,
       "exportedPath": "0.-attatchments/20240902123002_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123014_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 373255,
       "exportedPath": "0.-attatchments/20240902123014_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123122_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 263089,
       "exportedPath": "0.-attatchments/20240902123122_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123128_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 293265,
       "exportedPath": "0.-attatchments/20240902123128_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123157_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 274525,
       "exportedPath": "0.-attatchments/20240902123157_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123345_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 395661,
       "exportedPath": "0.-attatchments/20240902123345_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123403_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 363832,
       "exportedPath": "0.-attatchments/20240902123403_1.jpg",
       "dependencies": []
     },
     "0. Attatchments/20240902123431_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 298385,
       "exportedPath": "0.-attatchments/20240902123431_1.jpg",
       "dependencies": []
     },
+    "0. Attatchments/20250223202625_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 462766,
+      "exportedPath": "0.-attatchments/20250223202625_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102256_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 342031,
+      "exportedPath": "0.-attatchments/20250316102256_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102258_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 348708,
+      "exportedPath": "0.-attatchments/20250316102258_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102300_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 345600,
+      "exportedPath": "0.-attatchments/20250316102300_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102302_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 351760,
+      "exportedPath": "0.-attatchments/20250316102302_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102310_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 373307,
+      "exportedPath": "0.-attatchments/20250316102310_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102311_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 365231,
+      "exportedPath": "0.-attatchments/20250316102311_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102314_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 330024,
+      "exportedPath": "0.-attatchments/20250316102314_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102315_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 350010,
+      "exportedPath": "0.-attatchments/20250316102315_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102317_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 329134,
+      "exportedPath": "0.-attatchments/20250316102317_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102320_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 354456,
+      "exportedPath": "0.-attatchments/20250316102320_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102323_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 337648,
+      "exportedPath": "0.-attatchments/20250316102323_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102330_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 360471,
+      "exportedPath": "0.-attatchments/20250316102330_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102333_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 377163,
+      "exportedPath": "0.-attatchments/20250316102333_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102335_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 359584,
+      "exportedPath": "0.-attatchments/20250316102335_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102338_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 345272,
+      "exportedPath": "0.-attatchments/20250316102338_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102340_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 338514,
+      "exportedPath": "0.-attatchments/20250316102340_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102345_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 343621,
+      "exportedPath": "0.-attatchments/20250316102345_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102351_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 342118,
+      "exportedPath": "0.-attatchments/20250316102351_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102354_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 357388,
+      "exportedPath": "0.-attatchments/20250316102354_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102357_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 340809,
+      "exportedPath": "0.-attatchments/20250316102357_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102400_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 335317,
+      "exportedPath": "0.-attatchments/20250316102400_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102402_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 329731,
+      "exportedPath": "0.-attatchments/20250316102402_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102405_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 346534,
+      "exportedPath": "0.-attatchments/20250316102405_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102407_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 350097,
+      "exportedPath": "0.-attatchments/20250316102407_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102409_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 397489,
+      "exportedPath": "0.-attatchments/20250316102409_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102412_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 348324,
+      "exportedPath": "0.-attatchments/20250316102412_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102415_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 351646,
+      "exportedPath": "0.-attatchments/20250316102415_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102418_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 338410,
+      "exportedPath": "0.-attatchments/20250316102418_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102422_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 354614,
+      "exportedPath": "0.-attatchments/20250316102422_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102425_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 371748,
+      "exportedPath": "0.-attatchments/20250316102425_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102428_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 382681,
+      "exportedPath": "0.-attatchments/20250316102428_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102432_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 398780,
+      "exportedPath": "0.-attatchments/20250316102432_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102437_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 362854,
+      "exportedPath": "0.-attatchments/20250316102437_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316102440_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 368078,
+      "exportedPath": "0.-attatchments/20250316102440_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104245_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 561919,
+      "exportedPath": "0.-attatchments/20250316104245_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104256_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 448173,
+      "exportedPath": "0.-attatchments/20250316104256_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104303_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 456033,
+      "exportedPath": "0.-attatchments/20250316104303_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104311_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 402597,
+      "exportedPath": "0.-attatchments/20250316104311_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104313_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 451437,
+      "exportedPath": "0.-attatchments/20250316104313_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104314_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 449961,
+      "exportedPath": "0.-attatchments/20250316104314_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/20250316104316_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 455647,
+      "exportedPath": "0.-attatchments/20250316104316_1.jpg",
+      "dependencies": []
+    },
+    "0. Attatchments/Grim.png": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 574445,
+      "exportedPath": "0.-attatchments/grim.png",
+      "dependencies": []
+    },
     "0. Attatchments/Hocms8e.png.305ae654661052d3701e98b5aac33b2d.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 1365153,
       "exportedPath": "0.-attatchments/hocms8e.png.305ae654661052d3701e98b5aac33b2d.png",
       "dependencies": []
     },
     "0. Attatchments/Pasted image 20240721131710.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 2244159,
       "exportedPath": "0.-attatchments/pasted-image-20240721131710.png",
       "dependencies": []
     },
     "0. Attatchments/Pasted image 20240721133324.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 763649,
       "exportedPath": "0.-attatchments/pasted-image-20240721133324.png",
       "dependencies": []
     },
     "0. Attatchments/Pasted image 20240721133341.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 897112,
       "exportedPath": "0.-attatchments/pasted-image-20240721133341.png",
       "dependencies": []
     },
     "0. Attatchments/Pasted image 20240721133353.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 563388,
       "exportedPath": "0.-attatchments/pasted-image-20240721133353.png",
       "dependencies": []
     },
     "0. Attatchments/Pasted image 20240830153200.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 2242311,
       "exportedPath": "0.-attatchments/pasted-image-20240830153200.png",
       "dependencies": []
     },
+    "0. Attatchments/Preview.webp": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 720210,
+      "exportedPath": "0.-attatchments/preview.webp",
+      "dependencies": []
+    },
     "0. Attatchments/Rabbit1.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 172769,
       "exportedPath": "0.-attatchments/rabbit1.png",
       "dependencies": []
     },
     "0. Attatchments/Rabbit2.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 265358,
       "exportedPath": "0.-attatchments/rabbit2.png",
       "dependencies": []
     },
+    "0. Attatchments/SGT Igor Petrof.png": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 568347,
+      "exportedPath": "0.-attatchments/sgt-igor-petrof.png",
+      "dependencies": []
+    },
     "0. Attatchments/Walter1.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 200554,
       "exportedPath": "0.-attatchments/walter1.png",
       "dependencies": []
     },
     "0. PREWIPE/Journal/Barrier Defence/1st Barrier Battle.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
       "exportedPath": "0.-prewipe/journal/barrier-defence/1st-barrier-battle.html",
       "dependencies": []
     },
     "0. PREWIPE/Journal/Barrier Defence/2nd Barrier Battle.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 11,
       "exportedPath": "0.-prewipe/journal/barrier-defence/2nd-barrier-battle.html",
       "dependencies": []
     },
     "0. PREWIPE/Journal/Expedition Logs/20240719 - Rostok Route.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 2564,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 2383,
       "exportedPath": "0.-prewipe/journal/expedition-logs/20240719-rostok-route.html",
       "dependencies": [
         "lib/media/pasted-image-20240721133353.png",
@@ -492,7 +846,7 @@
       ]
     },
     "0. PREWIPE/Journal/Expedition Logs/20240720 - Darkscape Firestation.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 638,
       "exportedPath": "0.-prewipe/journal/expedition-logs/20240720-darkscape-firestation.html",
       "dependencies": [
@@ -500,8 +854,8 @@
       ]
     },
     "0. PREWIPE/Journal/Expedition Logs/20240721 - Swamp Interim.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 1962,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 1912,
       "exportedPath": "0.-prewipe/journal/expedition-logs/20240721-swamp-interim.html",
       "dependencies": [
         "lib/media/pasted-image-20240721131710.png",
@@ -510,529 +864,549 @@
       ]
     },
     "0. PREWIPE/Journal/Expedition Logs/20240726 - Yantar.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 121,
       "exportedPath": "0.-prewipe/journal/expedition-logs/20240726-yantar.html",
       "dependencies": []
     },
     "0. PREWIPE/Journal/Expedition Logs/20240831 - Yantar.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 788,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 504,
       "exportedPath": "0.-prewipe/journal/expedition-logs/20240831-yantar.html",
       "dependencies": []
     },
     "0. PREWIPE/Journal/01 - Log.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 688,
       "exportedPath": "0.-prewipe/journal/01-log.html",
       "dependencies": []
     },
     "0. PREWIPE/The Church Bunker.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 429,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 401,
       "exportedPath": "0.-prewipe/the-church-bunker.html",
       "dependencies": [
         "lib/media/20240830145722_1.jpg"
       ]
     },
     "0. Template/Contact Template.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 307,
       "exportedPath": "0.-template/contact-template.html",
       "dependencies": []
     },
     "0. Template/Expedition Log Template.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 123,
       "exportedPath": "0.-template/expedition-log-template.html",
       "dependencies": []
     },
     "0. Template/Journal Template.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 88,
       "exportedPath": "0.-template/journal-template.html",
       "dependencies": []
     },
     "1. Misc/Shopping List.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 94,
       "exportedPath": "1.-misc/shopping-list.html",
       "dependencies": []
     },
     "1. Misc/Stash.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 878,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 738,
       "exportedPath": "1.-misc/stash.html",
       "dependencies": []
     },
+    "Ghost's of Chernobyl/Contacts/Grim (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 420,
+      "exportedPath": "ghost's-of-chernobyl/contacts/grim-(goc).html",
+      "dependencies": [
+        "lib/media/grim.png"
+      ]
+    },
+    "Ghost's of Chernobyl/Contacts/Igor Petrof (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 304,
+      "exportedPath": "ghost's-of-chernobyl/contacts/igor-petrof-(goc).html",
+      "dependencies": [
+        "lib/media/sgt-igor-petrof.png"
+      ]
+    },
     "Ghost's of Chernobyl/Contacts/The Guide (GOC).md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 372,
       "exportedPath": "ghost's-of-chernobyl/contacts/the-guide-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Loner Factions/Hotel Pipyat.md": {
-      "modifiedTime": 1741533801686,
+    "Ghost's of Chernobyl/Contacts/Wilhelm Stümer (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 285,
+      "exportedPath": "ghost's-of-chernobyl/contacts/wilhelm-stümer-(goc).html",
+      "dependencies": []
+    },
+    "Ghost's of Chernobyl/Factions/Bandits (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/factions/bandits-(goc).html",
+      "dependencies": []
+    },
+    "Ghost's of Chernobyl/Factions/Duty (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/factions/duty-(goc).html",
+      "dependencies": []
+    },
+    "Ghost's of Chernobyl/Factions/Freedom (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/factions/freedom-(goc).html",
+      "dependencies": []
+    },
+    "Ghost's of Chernobyl/Factions/Loner (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/factions/loner-(goc).html",
+      "dependencies": []
+    },
+    "Ghost's of Chernobyl/Factions/Mercenaries (GOC).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/loner-factions/hotel-pipyat.html",
+      "exportedPath": "ghost's-of-chernobyl/factions/mercenaries-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Loner Factions/Loner.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/loner-factions/loner.html",
+    "Ghost's of Chernobyl/Factions/Monolith (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/factions/monolith-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Bandits.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/bandits.html",
+    "Ghost's of Chernobyl/Journal/0. Journal (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 85,
+      "exportedPath": "ghost's-of-chernobyl/journal/0.-journal-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Duty.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/duty.html",
+    "Ghost's of Chernobyl/Journal/Jobs (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 2457,
+      "exportedPath": "ghost's-of-chernobyl/journal/jobs-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Freedom.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/freedom.html",
+    "Ghost's of Chernobyl/Locations/Bases/Refuge (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 315,
+      "exportedPath": "ghost's-of-chernobyl/locations/bases/refuge-(goc).html",
+      "dependencies": [
+        "lib/media/20250316104245_1.jpg"
+      ]
+    },
+    "Ghost's of Chernobyl/Locations/Regions/Garbage/Flea Market (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 88,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/garbage/flea-market-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Mercenaries.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/mercenaries.html",
+    "Ghost's of Chernobyl/Locations/Regions/Agroprom (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/agroprom-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Factions/Monolith.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/factions/monolith.html",
+    "Ghost's of Chernobyl/Locations/Regions/Rookie Village (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/rookie-village-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Journal/Journal (GOC).md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 36,
-      "exportedPath": "ghost's-of-chernobyl/journal/journal-(goc).html",
+    "Ghost's of Chernobyl/Locations/Regions/Rostok (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/rostok-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Locations/Regions/Garbage/Flea Market.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 70,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/garbage/flea-market.html",
+    "Ghost's of Chernobyl/Locations/Regions/Swamp (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/swamp-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Locations/Regions/Agroprom.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/agroprom.html",
+    "Ghost's of Chernobyl/Locations/Regions/Yanov (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/yanov-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Locations/Regions/Army Warehouse.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/army-warehouse.html",
+    "Ghost's of Chernobyl/Locations/Regions/Yantar (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/regions/yantar-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Locations/Regions/Border.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/border.html",
+    "Ghost's of Chernobyl/Locations/Traders/Barkeep (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 1169,
+      "exportedPath": "ghost's-of-chernobyl/locations/traders/barkeep-(goc).html",
+      "dependencies": [
+        "lib/media/preview.webp",
+        "lib/media/20250316102256_1.jpg",
+        "lib/media/20250316102258_1.jpg",
+        "lib/media/20250316102300_1.jpg",
+        "lib/media/20250316102302_1.jpg",
+        "lib/media/20250316102310_1.jpg",
+        "lib/media/20250316102311_1.jpg",
+        "lib/media/20250316102314_1.jpg",
+        "lib/media/20250316102315_1.jpg",
+        "lib/media/20250316102317_1.jpg",
+        "lib/media/20250316102320_1.jpg",
+        "lib/media/20250316102323_1.jpg",
+        "lib/media/20250316102330_1.jpg",
+        "lib/media/20250316102333_1.jpg",
+        "lib/media/20250316102335_1.jpg",
+        "lib/media/20250316102338_1.jpg",
+        "lib/media/20250316102340_1.jpg",
+        "lib/media/20250316102345_1.jpg",
+        "lib/media/20250316102351_1.jpg",
+        "lib/media/20250316102354_1.jpg",
+        "lib/media/20250316102357_1.jpg",
+        "lib/media/20250316102400_1.jpg",
+        "lib/media/20250316102402_1.jpg",
+        "lib/media/20250316102405_1.jpg",
+        "lib/media/20250316102407_1.jpg",
+        "lib/media/20250316102409_1.jpg",
+        "lib/media/20250316102412_1.jpg",
+        "lib/media/20250316102415_1.jpg",
+        "lib/media/20250316102418_1.jpg",
+        "lib/media/20250316102422_1.jpg",
+        "lib/media/20250316102425_1.jpg",
+        "lib/media/20250316102428_1.jpg",
+        "lib/media/20250316102432_1.jpg",
+        "lib/media/20250316102437_1.jpg",
+        "lib/media/20250316102440_1.jpg"
+      ]
+    },
+    "Ghost's of Chernobyl/Locations/Traders/Duty Private (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/traders/duty-private-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Locations/Regions/Cordon.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/cordon.html",
+    "Ghost's of Chernobyl/Locations/Traders/Ecologist (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 17,
+      "exportedPath": "ghost's-of-chernobyl/locations/traders/ecologist-(goc).html",
       "dependencies": []
     },
-    "Ghost's of Chernobyl/Locations/Regions/Dark Valley.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/dark-valley.html",
-      "dependencies": []
+    "Ghost's of Chernobyl/Locations/Traders/Public Freedom (GOC).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 440,
+      "exportedPath": "ghost's-of-chernobyl/locations/traders/public-freedom-(goc).html",
+      "dependencies": [
+        "lib/media/20250316104245_1.jpg",
+        "lib/media/20250316104256_1.jpg",
+        "lib/media/20250316104303_1.jpg",
+        "lib/media/20250316104316_1.jpg",
+        "lib/media/20250316104311_1.jpg",
+        "lib/media/20250316104313_1.jpg",
+        "lib/media/20250316104314_1.jpg"
+      ]
     },
-    "Ghost's of Chernobyl/Locations/Regions/Darkscape.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/darkscape.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Dead City.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/dead-city.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Garbage.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/garbage.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Limansk.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/limansk.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Northern Dump.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/northern-dump.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Northern Swamp.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/northern-swamp.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Red Forest.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/red-forest.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Rookie Village.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/rookie-village.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Rostok.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/rostok.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Swamp.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/swamp.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Vehicle Cemetery.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/vehicle-cemetery.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Yanov.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/yanov.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Regions/Yantar.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 0,
-      "exportedPath": "ghost's-of-chernobyl/locations/regions/yantar.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Traders/Barkeep.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 246,
-      "exportedPath": "ghost's-of-chernobyl/locations/traders/barkeep.html",
-      "dependencies": []
-    },
-    "Ghost's of Chernobyl/Locations/Traders/Sidorovich.md": {
-      "modifiedTime": 1741533801686,
+    "Ghost's of Chernobyl/Locations/Traders/Sidorovich (GOC).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 255,
-      "exportedPath": "ghost's-of-chernobyl/locations/traders/sidorovich.html",
+      "exportedPath": "ghost's-of-chernobyl/locations/traders/sidorovich-(goc).html",
       "dependencies": []
     },
     "Life In the Zone/Contacts/The Guide (LITZ).md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 238,
       "exportedPath": "life-in-the-zone/contacts/the-guide-(litz).html",
       "dependencies": []
     },
     "Life In the Zone/Factions/Loner Factions/Hotel Pipyat.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
       "exportedPath": "life-in-the-zone/factions/loner-factions/hotel-pipyat.html",
       "dependencies": []
     },
     "Life In the Zone/Factions/Loner Factions/Loner.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
       "exportedPath": "life-in-the-zone/factions/loner-factions/loner.html",
       "dependencies": []
     },
-    "Life In the Zone/Factions/Bandits.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Factions/Bandits (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/factions/bandits.html",
+      "exportedPath": "life-in-the-zone/factions/bandits-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Factions/Duty.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Factions/Duty (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/factions/duty.html",
+      "exportedPath": "life-in-the-zone/factions/duty-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Factions/Freedom.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Factions/Freedom (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/factions/freedom.html",
+      "exportedPath": "life-in-the-zone/factions/freedom-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Factions/Mercenaries.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Factions/Mercenaries (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/factions/mercenaries.html",
+      "exportedPath": "life-in-the-zone/factions/mercenaries-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Factions/Monolith.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Factions/Monolith (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/factions/monolith.html",
+      "exportedPath": "life-in-the-zone/factions/monolith-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Journal/Barrier Defence/1st Barrier Battle.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Journal/Old/Barrier Defence/1st Barrier Battle (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/journal/barrier-defence/1st-barrier-battle.html",
+      "exportedPath": "life-in-the-zone/journal/old/barrier-defence/1st-barrier-battle-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Journal/Barrier Defence/2nd Barrier Battle.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Journal/Old/Barrier Defence/2nd Barrier Battle (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 11,
-      "exportedPath": "life-in-the-zone/journal/barrier-defence/2nd-barrier-battle.html",
+      "exportedPath": "life-in-the-zone/journal/old/barrier-defence/2nd-barrier-battle-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Journal/Expedition Logs/20240719 - Rostok Route.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 2564,
-      "exportedPath": "life-in-the-zone/journal/expedition-logs/20240719-rostok-route.html",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240719 - Rostok Route.md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 2383,
+      "exportedPath": "life-in-the-zone/journal/old/expedition-logs/20240719-rostok-route.html",
       "dependencies": [
         "lib/media/pasted-image-20240721133353.png",
         "lib/media/pasted-image-20240721133341.png",
         "lib/media/pasted-image-20240721133324.png"
       ]
     },
-    "Life In the Zone/Journal/Expedition Logs/20240720 - Darkscape Firestation.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Journal/Old/Expedition Logs/20240720 - Darkscape Firestation.md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 638,
-      "exportedPath": "life-in-the-zone/journal/expedition-logs/20240720-darkscape-firestation.html",
+      "exportedPath": "life-in-the-zone/journal/old/expedition-logs/20240720-darkscape-firestation.html",
       "dependencies": [
         "lib/media/20240720-expedition-firestation.png"
       ]
     },
-    "Life In the Zone/Journal/Expedition Logs/20240721 - Swamp Interim.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 1962,
-      "exportedPath": "life-in-the-zone/journal/expedition-logs/20240721-swamp-interim.html",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240721 - Swamp Interim.md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 1912,
+      "exportedPath": "life-in-the-zone/journal/old/expedition-logs/20240721-swamp-interim.html",
       "dependencies": [
         "lib/media/pasted-image-20240721131710.png",
         "lib/media/20240721123006_1.jpg",
         "lib/media/20240721123004_1.jpg"
       ]
     },
-    "Life In the Zone/Journal/Expedition Logs/20240726 - Yantar.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Journal/Old/Expedition Logs/20240726 - Yantar.md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 121,
-      "exportedPath": "life-in-the-zone/journal/expedition-logs/20240726-yantar.html",
+      "exportedPath": "life-in-the-zone/journal/old/expedition-logs/20240726-yantar.html",
       "dependencies": []
     },
-    "Life In the Zone/Journal/Expedition Logs/20240831 - Yantar.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 788,
-      "exportedPath": "life-in-the-zone/journal/expedition-logs/20240831-yantar.html",
+    "Life In the Zone/Journal/Old/Expedition Logs/20240831 - Yantar.md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 504,
+      "exportedPath": "life-in-the-zone/journal/old/expedition-logs/20240831-yantar.html",
       "dependencies": []
     },
-    "Life In the Zone/Journal/01 - Log.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Journal/Old/01 - Log.md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 688,
-      "exportedPath": "life-in-the-zone/journal/01-log.html",
+      "exportedPath": "life-in-the-zone/journal/old/01-log.html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Bases/The Bunker.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 273,
-      "exportedPath": "life-in-the-zone/locations/bases/the-bunker.html",
+    "Life In the Zone/Locations/Bases/The Bunker (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 251,
+      "exportedPath": "life-in-the-zone/locations/bases/the-bunker-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Bases/The Church Bunker.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 431,
-      "exportedPath": "life-in-the-zone/locations/bases/the-church-bunker.html",
+    "Life In the Zone/Locations/Bases/The Church Bunker (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 403,
+      "exportedPath": "life-in-the-zone/locations/bases/the-church-bunker-(litz).html",
       "dependencies": [
         "lib/media/20240830145722_1.jpg"
       ]
     },
-    "Life In the Zone/Locations/Regions/Garbage/Flea Market.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 152,
-      "exportedPath": "life-in-the-zone/locations/regions/garbage/flea-market.html",
+    "Life In the Zone/Locations/Regions/Garbage  (LITZ)/Flea Market (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 124,
+      "exportedPath": "life-in-the-zone/locations/regions/garbage-(litz)/flea-market-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Agroprom.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Agroprom (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/agroprom.html",
+      "exportedPath": "life-in-the-zone/locations/regions/agroprom-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Army Warehouse.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Army Warehouse (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/army-warehouse.html",
+      "exportedPath": "life-in-the-zone/locations/regions/army-warehouse-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Border.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Border (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/border.html",
+      "exportedPath": "life-in-the-zone/locations/regions/border-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Cordon.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Cordon (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/cordon.html",
+      "exportedPath": "life-in-the-zone/locations/regions/cordon-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Dark Valley.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Dark Valley (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/dark-valley.html",
+      "exportedPath": "life-in-the-zone/locations/regions/dark-valley-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Darkscape.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Darkscape (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/darkscape.html",
+      "exportedPath": "life-in-the-zone/locations/regions/darkscape-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Dead City.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Dead City (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/dead-city.html",
+      "exportedPath": "life-in-the-zone/locations/regions/dead-city-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Garbage.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Garbage (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/garbage.html",
+      "exportedPath": "life-in-the-zone/locations/regions/garbage-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Limansk.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Limansk (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/limansk.html",
+      "exportedPath": "life-in-the-zone/locations/regions/limansk-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Northern Dump.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Northern Dump (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/northern-dump.html",
+      "exportedPath": "life-in-the-zone/locations/regions/northern-dump-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Northern Swamp.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Northern Swamp (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/northern-swamp.html",
+      "exportedPath": "life-in-the-zone/locations/regions/northern-swamp-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Red Forest.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Red Forest (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/red-forest.html",
+      "exportedPath": "life-in-the-zone/locations/regions/red-forest-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Rostok.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Rostok (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/rostok.html",
+      "exportedPath": "life-in-the-zone/locations/regions/rostok-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Swamp.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Swamp (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/swamp.html",
+      "exportedPath": "life-in-the-zone/locations/regions/swamp-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Vehicle Cemetery.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Vehicle Cemetery (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/vehicle-cemetery.html",
+      "exportedPath": "life-in-the-zone/locations/regions/vehicle-cemetery-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Yanov.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Yanov (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/yanov.html",
+      "exportedPath": "life-in-the-zone/locations/regions/yanov-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Regions/Yantar.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Regions/Yantar (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/regions/yantar.html",
+      "exportedPath": "life-in-the-zone/locations/regions/yantar-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Barkeep.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 47,
-      "exportedPath": "life-in-the-zone/locations/traders/barkeep.html",
+    "Life In the Zone/Locations/Traders/Barkeep (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 19,
+      "exportedPath": "life-in-the-zone/locations/traders/barkeep-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Cordon Smuggler.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Traders/Cordon Smuggler (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 190,
-      "exportedPath": "life-in-the-zone/locations/traders/cordon-smuggler.html",
+      "exportedPath": "life-in-the-zone/locations/traders/cordon-smuggler-(litz).html",
       "dependencies": [
         "lib/media/20240831102148_1.jpg",
         "lib/media/20240831102056_1.jpg"
       ]
     },
-    "Life In the Zone/Locations/Traders/Duty Arms Seller.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 47,
-      "exportedPath": "life-in-the-zone/locations/traders/duty-arms-seller.html",
+    "Life In the Zone/Locations/Traders/Duty Arms Seller (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 19,
+      "exportedPath": "life-in-the-zone/locations/traders/duty-arms-seller-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Duty Medic.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 47,
-      "exportedPath": "life-in-the-zone/locations/traders/duty-medic.html",
+    "Life In the Zone/Locations/Traders/Duty Medic (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 19,
+      "exportedPath": "life-in-the-zone/locations/traders/duty-medic-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Duty Mutant Seller.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 47,
-      "exportedPath": "life-in-the-zone/locations/traders/duty-mutant-seller.html",
+    "Life In the Zone/Locations/Traders/Duty Mutant Seller (LITZ).md": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 19,
+      "exportedPath": "life-in-the-zone/locations/traders/duty-mutant-seller-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Flea Market Trader.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Traders/Flea Market Trader (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/traders/flea-market-trader.html",
+      "exportedPath": "life-in-the-zone/locations/traders/flea-market-trader-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Sidorovich.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Traders/Sidorovich (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/traders/sidorovich.html",
+      "exportedPath": "life-in-the-zone/locations/traders/sidorovich-(litz).html",
       "dependencies": []
     },
-    "Life In the Zone/Locations/Traders/Yantar Trader.md": {
-      "modifiedTime": 1741533801686,
+    "Life In the Zone/Locations/Traders/Yantar Trader (LITZ).md": {
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
-      "exportedPath": "life-in-the-zone/locations/traders/yantar-trader.html",
+      "exportedPath": "life-in-the-zone/locations/traders/yantar-trader-(litz).html",
       "dependencies": []
     },
     "Life In the Zone/The Guide's Guide/0. Introduction To The Guide.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
       "exportedPath": "life-in-the-zone/the-guide's-guide/0.-introduction-to-the-guide.html",
       "dependencies": []
     },
     "Life In the Zone/The Guide's Guide/1. Welcome to the Cordon.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 2170,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 2142,
       "exportedPath": "life-in-the-zone/the-guide's-guide/1.-welcome-to-the-cordon.html",
       "dependencies": [
         "lib/media/20240902122917_1.jpg",
@@ -1062,19 +1436,19 @@
       ]
     },
     "Life In the Zone/The Guide's Guide/2. Garbage and its trash inhabitants.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 159,
       "exportedPath": "life-in-the-zone/the-guide's-guide/2.-garbage-and-its-trash-inhabitants.html",
       "dependencies": []
     },
     "Life In the Zone/The Guide's Guide/Anomaly Training.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 0,
       "exportedPath": "life-in-the-zone/the-guide's-guide/anomaly-training.html",
       "dependencies": []
     },
     "Notes/Building.md": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 6004,
       "exportedPath": "notes/building.html",
       "dependencies": [
@@ -1082,391 +1456,655 @@
       ]
     },
     "Notes/Note 01 - The Guide Assistance.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 538,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 787,
       "exportedPath": "notes/note-01-the-guide-assistance.html",
       "dependencies": []
     },
     "Main Page.md": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 116,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 281,
       "exportedPath": "main-page.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20240721133353.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 563388,
       "exportedPath": "lib/media/pasted-image-20240721133353.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240721133341.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 897112,
       "exportedPath": "lib/media/pasted-image-20240721133341.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240721133324.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 763649,
       "exportedPath": "lib/media/pasted-image-20240721133324.png",
       "dependencies": []
     },
     "lib/media/20240720-expedition-firestation.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 1506615,
       "exportedPath": "lib/media/20240720-expedition-firestation.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240721131710.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 2244159,
       "exportedPath": "lib/media/pasted-image-20240721131710.png",
       "dependencies": []
     },
     "lib/media/20240721123006_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 607252,
       "exportedPath": "lib/media/20240721123006_1.jpg",
       "dependencies": []
     },
     "lib/media/20240721123004_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 621327,
       "exportedPath": "lib/media/20240721123004_1.jpg",
       "dependencies": []
     },
     "lib/media/20240830145722_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 627587,
       "exportedPath": "lib/media/20240830145722_1.jpg",
       "dependencies": []
     },
+    "lib/media/grim.png": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 574445,
+      "exportedPath": "lib/media/grim.png",
+      "dependencies": []
+    },
+    "lib/media/sgt-igor-petrof.png": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 568347,
+      "exportedPath": "lib/media/sgt-igor-petrof.png",
+      "dependencies": []
+    },
+    "lib/media/20250316104245_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 561919,
+      "exportedPath": "lib/media/20250316104245_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/preview.webp": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 720210,
+      "exportedPath": "lib/media/preview.webp",
+      "dependencies": []
+    },
+    "lib/media/20250316102256_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 342031,
+      "exportedPath": "lib/media/20250316102256_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102258_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 348708,
+      "exportedPath": "lib/media/20250316102258_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102300_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 345600,
+      "exportedPath": "lib/media/20250316102300_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102302_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 351760,
+      "exportedPath": "lib/media/20250316102302_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102310_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 373307,
+      "exportedPath": "lib/media/20250316102310_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102311_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 365231,
+      "exportedPath": "lib/media/20250316102311_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102314_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 330024,
+      "exportedPath": "lib/media/20250316102314_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102315_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 350010,
+      "exportedPath": "lib/media/20250316102315_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102317_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 329134,
+      "exportedPath": "lib/media/20250316102317_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102320_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 354456,
+      "exportedPath": "lib/media/20250316102320_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102323_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 337648,
+      "exportedPath": "lib/media/20250316102323_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102330_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 360471,
+      "exportedPath": "lib/media/20250316102330_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102333_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 377163,
+      "exportedPath": "lib/media/20250316102333_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102335_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 359584,
+      "exportedPath": "lib/media/20250316102335_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102338_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 345272,
+      "exportedPath": "lib/media/20250316102338_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102340_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 338514,
+      "exportedPath": "lib/media/20250316102340_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102345_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 343621,
+      "exportedPath": "lib/media/20250316102345_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102351_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 342118,
+      "exportedPath": "lib/media/20250316102351_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102354_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 357388,
+      "exportedPath": "lib/media/20250316102354_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102357_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 340809,
+      "exportedPath": "lib/media/20250316102357_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102400_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 335317,
+      "exportedPath": "lib/media/20250316102400_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102402_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 329731,
+      "exportedPath": "lib/media/20250316102402_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102405_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 346534,
+      "exportedPath": "lib/media/20250316102405_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102407_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 350097,
+      "exportedPath": "lib/media/20250316102407_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102409_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 397489,
+      "exportedPath": "lib/media/20250316102409_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102412_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 348324,
+      "exportedPath": "lib/media/20250316102412_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102415_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 351646,
+      "exportedPath": "lib/media/20250316102415_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102418_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 338410,
+      "exportedPath": "lib/media/20250316102418_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102422_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 354614,
+      "exportedPath": "lib/media/20250316102422_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102425_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 371748,
+      "exportedPath": "lib/media/20250316102425_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102428_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 382681,
+      "exportedPath": "lib/media/20250316102428_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102432_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 398780,
+      "exportedPath": "lib/media/20250316102432_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102437_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 362854,
+      "exportedPath": "lib/media/20250316102437_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316102440_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 368078,
+      "exportedPath": "lib/media/20250316102440_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316104256_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 448173,
+      "exportedPath": "lib/media/20250316104256_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316104303_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 456033,
+      "exportedPath": "lib/media/20250316104303_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316104316_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 455647,
+      "exportedPath": "lib/media/20250316104316_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316104311_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 402597,
+      "exportedPath": "lib/media/20250316104311_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316104313_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 451437,
+      "exportedPath": "lib/media/20250316104313_1.jpg",
+      "dependencies": []
+    },
+    "lib/media/20250316104314_1.jpg": {
+      "modifiedTime": 1742399416955,
+      "sourceSize": 449961,
+      "exportedPath": "lib/media/20250316104314_1.jpg",
+      "dependencies": []
+    },
     "lib/media/20240831102148_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 193128,
       "exportedPath": "lib/media/20240831102148_1.jpg",
       "dependencies": []
     },
     "lib/media/20240831102056_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 119238,
       "exportedPath": "lib/media/20240831102056_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122917_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 334355,
       "exportedPath": "lib/media/20240902122917_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122430_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 312330,
       "exportedPath": "lib/media/20240902122430_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122605_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 407484,
       "exportedPath": "lib/media/20240902122605_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122635_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 391188,
       "exportedPath": "lib/media/20240902122635_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122649_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 356566,
       "exportedPath": "lib/media/20240902122649_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122712_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 253689,
       "exportedPath": "lib/media/20240902122712_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122727_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 352534,
       "exportedPath": "lib/media/20240902122727_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122747_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 360887,
       "exportedPath": "lib/media/20240902122747_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122517_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 373099,
       "exportedPath": "lib/media/20240902122517_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122527_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 252316,
       "exportedPath": "lib/media/20240902122527_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122534_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 355195,
       "exportedPath": "lib/media/20240902122534_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122542_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 305105,
       "exportedPath": "lib/media/20240902122542_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122349_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 400063,
       "exportedPath": "lib/media/20240902122349_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122757_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 416306,
       "exportedPath": "lib/media/20240902122757_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122922_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 291330,
       "exportedPath": "lib/media/20240902122922_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123002_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 414637,
       "exportedPath": "lib/media/20240902123002_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123014_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 373255,
       "exportedPath": "lib/media/20240902123014_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123122_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 263089,
       "exportedPath": "lib/media/20240902123122_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123128_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 293265,
       "exportedPath": "lib/media/20240902123128_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123157_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 274525,
       "exportedPath": "lib/media/20240902123157_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123403_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 363832,
       "exportedPath": "lib/media/20240902123403_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123431_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 298385,
       "exportedPath": "lib/media/20240902123431_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902122439_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 356749,
       "exportedPath": "lib/media/20240902122439_1.jpg",
       "dependencies": []
     },
     "lib/media/20240902123345_1.jpg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 395661,
       "exportedPath": "lib/media/20240902123345_1.jpg",
       "dependencies": []
     },
     "lib/media/hocms8e.png.305ae654661052d3701e98b5aac33b2d.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 1365153,
       "exportedPath": "lib/media/hocms8e.png.305ae654661052d3701e98b5aac33b2d.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 67789,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 84183,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1741533801686,
-      "sourceSize": 7815,
+      "modifiedTime": 1742399416955,
+      "sourceSize": 8413,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 137466,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1741533801686,
+      "modifiedTime": 1742399416955,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
